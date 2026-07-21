@@ -1,2 +1,2 @@
 pydantic==1.10.13
-setuptools==59.6.0
+setuptools==83.0.0
